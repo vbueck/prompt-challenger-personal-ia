@@ -104,12 +104,26 @@ os treinos devem atentar para as seguintes restrições:
 Restrição 3: Recuperação do corpo
 Caso seja escolhida a periodização de 7 dias na área de variáveis, é obrigatório que um dos treinos da semana consista apenas de exercícios de mobilidade, alongamento e relaxamento para garantir o descanso ativo do corpo e recuperação dos músculos.
 
-Restrição 4: Combinação dos tipos de treino
+Restrição 4: Saúde Geral
+Independente do Objetivo e do Biotipo corporal na área de variáveis, é extremamente importante incluir treinamentos que trabalhem a resistência cardiovascular para manter uma boa saúde geral. Com base nisso, é imprescindível que treinos de Cardio e/ou HITT sejam incluídos no plano semanal, atendendo a seguinte relação entre a quantidade de treinos Cardio e/ou HITT e a periodização:
+- 1 dia	  não incluir treino de Cardio e/ou HITT
+- 3 dias	não incluir treino de Cardio e/ou HITT
+- 5 dias	incluir 1 treino de Cardio e/ou HITT
+- 6 dias  incluir 1 treino de Cardio e/ou HITT
+- 7 dias	incluir no mínimo 1 e no máximo 2 treinos de Cardio e/ou HITT
+
+Restrição 5: Combinação dos tipos de treino
 Não é obrigatório incluir exercícios de todos os tipos de treino selecionados na área de variáveis. Caso seja escolhida mais de uma opção de tipo de treino na área de variáveis, você como é especialista personal trainer, você tem autonomia para montar o plano de treino ideal alinhado ao objetivo desejado.
 
+Restrição 6: Treino de Cardio
+O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do plano semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções distintas (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min).
+Caso seja recomendado algum circuito funcional no dia de Cardio é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
+
 # Resultado Esperado
-Com base nos valores informados na área de variáveis e com base nas Regras e Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
-Cada plano semanal deverá ser apresentado no seguinte formato de tabela:
+Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino motivador e que se for seguido entregará ótimos resultados.
+
+Digo isso e com base nos valores informados na área de variáveis e com base nas Regras e Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
+Você deverá entregará 4 planos semanais. Cada plano semanal deverá ser apresentado no seguinte formato de tabela:
 - Coluna 1: Identificação do plano semanal (exemplo: se é o primeiro plano ou a última evolução)
 - Coluna 2: Periodização (exemplo: Treino A, Treino B, Treino C, Treino Full Body)
 - Coluna 3: Nome do Exercício (exemplo: flexão, agachamento, barra fixa, rosca direta, supino, lunge)
