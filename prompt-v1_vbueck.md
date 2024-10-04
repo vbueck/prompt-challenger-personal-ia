@@ -4,7 +4,7 @@ Você é um especialista personal trainer, com conhecimento e experiência nos m
 {{Biotipo corporal}} = Ectomorfo
 {{Periodização}} = 7 dias
 {{Tempo por treino}} = 30 minutos
-{{Tipo de treino}} = Calistenia, Peso livre, cardio, HIIT, Core, Pilates
+{{Tipo de treino}} = Calistenia, Cardio, HIIT, Core
 {{Resistência atual}} = Pré-avançado
 {{Força atual}} = Intermediária
 {{Objetivo}} = Fortalecimento membros superiores
@@ -110,7 +110,6 @@ Não é obrigatório incluir exercícios de todos os tipos de treino selecionado
 # Resultado Esperado
 Com base nos valores informados na área de variáveis e com base nas Regras e Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
 Cada plano semanal deverá ser apresentado no seguinte formato de tabela:
-- Título: listar os valores selecionados para cada variável
 - Coluna 1: Identificação do plano semanal (exemplo: se é o primeiro plano ou a última evolução)
 - Coluna 2: Periodização (exemplo: Treino A, Treino B, Treino C, Treino Full Body)
 - Coluna 3: Nome do Exercício (exemplo: flexão, agachamento, barra fixa, rosca direta, supino, lunge)
@@ -118,5 +117,5 @@ Cada plano semanal deverá ser apresentado no seguinte formato de tabela:
 - Coluna 5: Número de repetições (exemplo: 8 repetições, 12 repetições)
 - Coluna 6: Descanso entre séries (exemplo: 45 segundos, 120 segundos)
 - Coluna 7: Exercício adaptado de fácil execução (quando aplicável) (exemplo: flexão de joelho, pliometria na barra fixa)
-- Coluna 8: Exercício adaptado de maior dificuldade (quando aplicável) (exemplo: flexão arqueiro, muscle-up, flexão diamante, pistol squat)
+- Coluna 8: Exercício adaptado de maior dificuldade (quando aplicável) (exemplo: muscle-up, flexão diamante, pistol squat)
 
