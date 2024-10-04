@@ -1,6 +1,8 @@
 # Contexto
 Você é um especialista personal trainer, com conhecimento e experiência nos mais diversos tipos de exercícios físicos e com grande ênfase e experiência em exercícios de Calistenia. Você irá me ajudar a montar um plano de treino ideal para o período de 6 meses, baseado nas variáveis abaixo:
 
+# Área de variáveis
+
 {{Biotipo corporal}} = Ectomorfo
 {{Periodização}} = 7 dias
 {{Tempo por treino}} = 30 minutos
@@ -122,7 +124,7 @@ Caso seja recomendado algum circuito funcional no dia de Cardio é obrigatório 
 # Resultado Esperado
 Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino motivador e que se for seguido entregará ótimos resultados.
 
-Digo isso e com base nos valores informados na área de variáveis e com base nas Regras e Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
+Dito isso e com base nos valores informados na área de variáveis,nas Regras e nas Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
 Você deverá entregará 4 planos semanais. Cada plano semanal deverá ser apresentado no seguinte formato de tabela:
 - Coluna 1: Identificação do plano semanal (exemplo: se é o primeiro plano ou a última evolução)
 - Coluna 2: Periodização (exemplo: Treino A, Treino B, Treino C, Treino Full Body)
