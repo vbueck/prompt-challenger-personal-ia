@@ -45,7 +45,7 @@ Conhecendo a quantidade de minutos disponíveis por treino na área de variávei
 - 90 minutos
   
 Regra 4: Tipo de treino
-Conhecendo os tipos de treino desejados na área de variáveis, sugerir uma combinação que inclua exercícios de todos os tipos selecionados. Os tipos de exercícios são:
+Conhecendo os tipos de treino desejados na área de variáveis, sugerir uma combinação que inclua exercícios de todos os tipos selecionados na área de variáveis. Os tipos de exercícios são:
 - Funcional 	           Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
 - Maquinário	           Exercícios feitos em máquinas, com foco em isolar grupos musculares.
 - Peso Livre	           Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
