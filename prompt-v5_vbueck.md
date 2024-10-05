@@ -31,12 +31,13 @@ Conhecendo o biotipo corporal e sua definição informado na área de variáveis
 - Endomorfo	Corpo com tendência a acumular gordura, maior dificuldade em perder peso. Proporção recomendada de exercícios: 50% exercícios aeróbicos, 30% exercícios para ganho de massa muscular e 20% exercícios para flexibilidade, mobilidade e core.
 
 Regra 2: Periodização
-Conhecendo a quantidade de dias disponíveis por semana na área de variáveis, criar uma das periodizações para cada bloco semanal:
-- 1 dia	  Treino Full Body
-- 3 dias	Treino ABC
-- 5 dias	Treino ABCDE
-- 6 dias  Treino ABCDEF
-- 7 dias	Treino ABCDEFG
+Conhecendo a quantidade de dias disponíveis por semana na área de variáveis, criar uma das periodizações abaixo para cada bloco semanal. Em todas as opções de periodização, cada treino (A, B, C, D, E, F, G) deve ter um conjunto distinto de exercícios, não podendo repetir os mesmos exercícios em treinos diferentes:
+
+- 1 dia    Treino Full Body (apenas 1 treino distinto)
+- 3 dias   Treino A, Treino B, Treino C (3 treinos distintos)  
+- 5 dias   Treino A, Treino B, Treino C, Treino D, Treino E (5 treinos distintos)
+- 6 dias   Treino A, Treino B, Treino C, Treino D, Treino E, Treino F (6 treinos distintos)
+- 7 dias   Treino A, Treino B, Treino C, Treino D, Treino E, Treino F, Treino G (7 treinos distintos)
 
 Regra 3: Tempo por treino
 Conhecendo a quantidade de minutos disponíveis por treino na área de variáveis, adequar a quantidade de exercícios e repetições por treino para que o tempo não seja extrapolado:
