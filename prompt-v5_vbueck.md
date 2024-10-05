@@ -122,6 +122,9 @@ Restrição 6: Treino de Cardio
 O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do bloco semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções por treino, as opções fornecidas devem ser atividades físicas diferentes entre si, para proporcionar real variedade (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min).
 Caso seja recomendado um circuito funcional ou treino de HIIT no Treino de Cardio é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
 
+Restrição 7: Atentar para a periodização
+Siga exatamente a periodização especificada na área de variáveis, gerando um treino distinto para cada dia da semana.
+
 # Resultado Esperado
 Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino MOTIVADOR e que se for seguido ENTREGARÁ ÓTIMOS RESULTADOS.
 
