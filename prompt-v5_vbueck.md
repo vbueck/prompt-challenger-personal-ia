@@ -87,7 +87,7 @@ A mobilidade física é a possibilidade de execução de movimentos de uma ou ma
 # Restrições
 
 Restrição 1: Quantidade de Exercícios
-O número de exercícios sugeridos por treino devem seguir a relação abaixo:
+O número de exercícios sugeridos por treino deve seguir, sem exceções, a relação abaixo:
 - Treino de 20 minutos  No mínimo 4 e no máximo 6 exercícios
 - Treino de 30 minutos  No mínimo 4 e no máximo 6 exercícios
 - Treino de 45 minutos  No mínimo 5 e no máximo 8 exercícios
@@ -105,7 +105,7 @@ os treinos devem atentar para as seguintes restrições:
 - O tempo de descanso sugerido deve ser entre 40 e 120 segundos
 
 Restrição 3: Recuperação do corpo
-Caso seja escolhida a periodização de 7 dias na área de variáveis, é obrigatório que um dos treinos da semana consista apenas de exercícios de mobilidade, alongamento e relaxamento para garantir o descanso ativo do corpo e recuperação dos músculos.
+Caso seja escolhida a periodização de 7 dias na área de variáveis, é obrigatório que um dos treinos da semana consista apenas de exercícios de mobilidade, alongamento e relaxamento para garantir o descanso ativo do corpo e recuperação dos músculos. Para este treino é necessário listar todos os exercícios recomendados, com número de séries/tempo, descanso etc.
 
 Restrição 4: Saúde Geral
 Independente do Objetivo e do Biotipo corporal na área de variáveis, é extremamente importante incluir treinamentos que trabalhem a resistência cardiovascular para manter uma boa saúde geral. Com base nisso, é imprescindível que treinos de Cardio ou HITT sejam incluídos no bloco semanal, atendendo a seguinte relação entre a quantidade de treinos Cardio e/ou HITT e a periodização:
@@ -119,8 +119,8 @@ Restrição 5: Combinação dos tipos de treino
 Não é obrigatório incluir exercícios de todos os tipos de treino selecionados na área de variáveis. Caso seja escolhida mais de uma opção de tipo de treino na área de variáveis você, como é especialista personal trainer,  tem total autonomia para montar o plano de treino ideal alinhado ao objetivo desejado.
 
 Restrição 6: Treino de Cardio
-O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do bloco semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções distintas por treino (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min). As opções sugeridas podem se repetir de um bloco semanal para o outro, porém não todas.
-Caso seja recomendado algum circuito funcional no dia de Cardio é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
+O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do bloco semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções por treino, as opções fornecidas devem ser atividades físicas diferentes entre si, para proporcionar real variedade (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min).
+Caso seja recomendado um circuito funcional ou treino de HIIT no Treino de Cardio é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
 
 # Resultado Esperado
 Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino MOTIVADOR e que se for seguido ENTREGARÁ ÓTIMOS RESULTADOS.
