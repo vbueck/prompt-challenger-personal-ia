@@ -130,9 +130,7 @@ Siga exatamente a periodização especificada na área de variáveis, gerando um
 
 # Resultado Esperado
 Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino MOTIVADOR e que se for seguido ENTREGARÁ ÓTIMOS RESULTADOS.
-
-Dito isso e com base nos valores informados na área de variáveis, nas Regras e nas Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
-Você deverá entregará 4 blocos semanais. Cada bloco semanal deverá ser apresentado no seguinte formato de tabela:
+Cada bloco semanal deverá ser apresentado no seguinte formato de tabela:
 - Coluna 1: Qual é o treino, de acordo com as variações disponíveis na Periodização (exemplo: Treino A, Treino B, Treino C, Treino Full Body)
 - Coluna 2: Nome do Exercício (exemplo: flexão, agachamento, barra fixa, rosca direta, supino, lunge)
 - Coluna 3: Número de séries (exemplo: 3 séries, 4 séries)
@@ -141,3 +139,4 @@ Você deverá entregará 4 blocos semanais. Cada bloco semanal deverá ser apres
 - Coluna 6: Exercício adaptado de fácil execução (quando aplicável) (exemplo: flexão de joelho, pliometria na barra fixa)
 - Coluna 7: Exercício adaptado de maior dificuldade (quando aplicável) (exemplo: muscle-up, flexão diamante, pistol squat)
 
+Dito isso e para garantir o seu completo foco e análise das regras e restrições, Crie o primeiro bloco semanal para minha avaliação. Peça minha validação e caso eu concorde com a qualidade e conteúdo, prossiga com a geração do plano de treino completo gerando os blocos semanais restantes.
