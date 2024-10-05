@@ -139,4 +139,4 @@ Cada bloco semanal deverá ser apresentado no seguinte formato de tabela:
 - Coluna 6: Exercício adaptado de fácil execução (quando aplicável) (exemplo: flexão de joelho, pliometria na barra fixa)
 - Coluna 7: Exercício adaptado de maior dificuldade (quando aplicável) (exemplo: muscle-up, flexão diamante, pistol squat)
 
-Dito isso e para garantir o seu completo foco e análise das regras e restrições, Crie o primeiro bloco semanal para minha avaliação. Peça minha validação e caso eu concorde com a qualidade e conteúdo, prossiga com a geração do plano de treino completo gerando os blocos semanais restantes.
+Dito isso e para garantir o seu completo foco e análise das regras e restrições, Crie o primeiro bloco semanal para minha avaliação. Peça minha validação e execute a criação do próximo bloco somente após meu aval. Faça o mesmo para os demais blocos.
