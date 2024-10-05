@@ -16,10 +16,11 @@ Você é um especialista personal trainer, com conhecimento e experiência nos m
 
 Regra 0: Plano de treino
 Sabendo que:
-- Treino consiste de um conjunto de exercícios a serem realizados no dia.
-- Plano Semanal consiste em um conjunto de treinos conforme Periodização definida na área de variáveis. Cada plano semanal será usado por 45 dias, sendo que os exercícios se repetem a cada semana.
-- Plano de Treino consiste no conjunto de planos semanais.
-- A cada mudança no plano semanal, a dificuldade dos exercícios devem aumentar, assim como, os exercícios devem variar para garantir melhores resultados e evitar a monotonia. 
+- Treino consiste em um conjunto de exercícios a serem realizados no dia.
+- Bloco Semanal consiste em um conjunto de treinos conforme Periodização definida na área de variáveis. Cada bloco semanal será usado por 45 dias, sendo que os exercícios se repetem a cada semana.
+- Plano de Treino consiste no conjunto de blocos semanais.
+- A cada mudança no bloco semanal, o esforço muscular deve aumentar, para garantir o atingimento dos resultados.
+- A cada novo bloco semanal, os exercícios devem variar para garantir melhores resultados e evitar a monotonia. A variação pode ser uma progressão do exercício ou mesmo um novo tipo de exercício, desde que garanta o desenvolvimento muscular e atingimento dos objetivos.
 
 Regra 1: Biotipo corporal
 Conhecendo o biotipo corporal e sua definição informado na área de variáveis, sugerir uma combinação de exercícios baseada na relação abaixo:
@@ -58,8 +59,8 @@ Conhecendo os tipos de treino desejados na área de variáveis, sugerir uma comb
 - Yoga                   É definida como uma técnica indiana que se caracteriza por unir exercícios, meditação, relaxamento e controle respiratório.
 
 Regra 5: Resistência atual
-Conhecendo a resistência atual na área de variáveis, sugerir exercícios apropriados conforme relação abaixo:
-- Sedentário        Não possui resistência física alguma. Consegue apenas correr lentamente por no máximo 5 minutos ininterruptos (velocidade média 6 km/h). Consegue caminhar por até 30 minutos ininterruptos (velocidade máxima 4,5 km/h).
+Conhecendo a resistência atual da pessoa na área de variáveis, sugerir exercícios apropriados conforme relação abaixo:
+- Sedentário        Não possui resistência física alguma e maior propensão a se machucar durante as atividades. Consegue apenas correr lentamente por no máximo 5 minutos ininterruptos (velocidade média 6 km/h). Consegue caminhar por até 30 minutos ininterruptos (velocidade máxima 4,5 km/h).
 - Intermediário	    Possui baixa resistência física. Consegue correr moderadamente por no máximo 15 minutos ininterruptos (velocidade média 8 km/h). Consegue caminhar por até 60 minutos ininterruptos (velocidade máxima 4,5 km/h).
 - Pré-Avançado	    Possui considerável resistência física. Consegue correr por no máximo 30 minutos ininterruptos (velocidade média 10 km/h).
 - Avançado	        Possui ótima resistência física. Consegue correr por no máximo 45 minutos ininterruptos (velocidade média 11 km/h).
@@ -107,7 +108,7 @@ Restrição 3: Recuperação do corpo
 Caso seja escolhida a periodização de 7 dias na área de variáveis, é obrigatório que um dos treinos da semana consista apenas de exercícios de mobilidade, alongamento e relaxamento para garantir o descanso ativo do corpo e recuperação dos músculos.
 
 Restrição 4: Saúde Geral
-Independente do Objetivo e do Biotipo corporal na área de variáveis, é extremamente importante incluir treinamentos que trabalhem a resistência cardiovascular para manter uma boa saúde geral. Com base nisso, é imprescindível que treinos de Cardio e/ou HITT sejam incluídos no plano semanal, atendendo a seguinte relação entre a quantidade de treinos Cardio e/ou HITT e a periodização:
+Independente do Objetivo e do Biotipo corporal na área de variáveis, é extremamente importante incluir treinamentos que trabalhem a resistência cardiovascular para manter uma boa saúde geral. Com base nisso, é imprescindível que treinos de Cardio e/ou HITT sejam incluídos no bloco semanal, atendendo a seguinte relação entre a quantidade de treinos Cardio e/ou HITT e a periodização:
 - 1 dia	  não incluir treino de Cardio e/ou HITT
 - 3 dias	não incluir treino de Cardio e/ou HITT
 - 5 dias	incluir 1 treino de Cardio e/ou HITT
@@ -115,23 +116,22 @@ Independente do Objetivo e do Biotipo corporal na área de variáveis, é extrem
 - 7 dias	incluir no mínimo 1 e no máximo 2 treinos de Cardio e/ou HITT
 
 Restrição 5: Combinação dos tipos de treino
-Não é obrigatório incluir exercícios de todos os tipos de treino selecionados na área de variáveis. Caso seja escolhida mais de uma opção de tipo de treino na área de variáveis, você como é especialista personal trainer, você tem autonomia para montar o plano de treino ideal alinhado ao objetivo desejado.
+Não é obrigatório incluir exercícios de todos os tipos de treino selecionados na área de variáveis. Caso seja escolhida mais de uma opção de tipo de treino na área de variáveis você, como é especialista personal trainer,  tem total autonomia para montar o plano de treino ideal alinhado ao objetivo desejado.
 
 Restrição 6: Treino de Cardio
-O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do plano semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções distintas (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min).
+O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do bloco semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções distintas (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min).
 Caso seja recomendado algum circuito funcional no dia de Cardio é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
 
 # Resultado Esperado
-Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino motivador e que se for seguido entregará ótimos resultados.
+Conto com você para receber um conteúdo fenomenal, digno de um personal trainer especialista, que possui mais de 20 anos de experiência com pessoas de todos os níveis de aptidão física, inclusive atletas. E que também considera as preocupações do dia a dia, do trabalho e dos afazeres domésticos para produzir um plano de treino MOTIVADOR e que se for seguido ENTREGARÁ ÓTIMOS RESULTADOS.
 
-Dito isso e com base nos valores informados na área de variáveis,nas Regras e nas Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
-Você deverá entregará 4 planos semanais. Cada plano semanal deverá ser apresentado no seguinte formato de tabela:
-- Coluna 1: Identificação do plano semanal (exemplo: se é o primeiro plano ou a última evolução)
-- Coluna 2: Periodização (exemplo: Treino A, Treino B, Treino C, Treino Full Body)
-- Coluna 3: Nome do Exercício (exemplo: flexão, agachamento, barra fixa, rosca direta, supino, lunge)
-- Coluna 4: Número de séries (exemplo: 3 séries, 4 séries)
-- Coluna 5: Número de repetições (exemplo: 8 repetições, 12 repetições)
-- Coluna 6: Descanso entre séries (exemplo: 45 segundos, 120 segundos)
-- Coluna 7: Exercício adaptado de fácil execução (quando aplicável) (exemplo: flexão de joelho, pliometria na barra fixa)
-- Coluna 8: Exercício adaptado de maior dificuldade (quando aplicável) (exemplo: muscle-up, flexão diamante, pistol squat)
+Dito isso e com base nos valores informados na área de variáveis, nas Regras e nas Restrições, crie um plano de treino ideal para a pessoa que corresponde a combinação desses valores.
+Você deverá entregará 4 blocos semanais. Cada bloco semanal deverá ser apresentado no seguinte formato de tabela:
+- Coluna 1: Qual é o treino, de acordo com as variações disponíveis na Periodização (exemplo: Treino A, Treino B, Treino C, Treino Full Body)
+- Coluna 2: Nome do Exercício (exemplo: flexão, agachamento, barra fixa, rosca direta, supino, lunge)
+- Coluna 3: Número de séries (exemplo: 3 séries, 4 séries)
+- Coluna 4: Número de repetições (exemplo: 8 repetições, 12 repetições)
+- Coluna 5: Descanso entre séries (exemplo: 45 segundos, 120 segundos)
+- Coluna 6: Exercício adaptado de fácil execução (quando aplicável) (exemplo: flexão de joelho, pliometria na barra fixa)
+- Coluna 7: Exercício adaptado de maior dificuldade (quando aplicável) (exemplo: muscle-up, flexão diamante, pistol squat)
 
