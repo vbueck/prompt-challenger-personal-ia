@@ -69,10 +69,10 @@ Conhecendo a resistência atual da pessoa na área de variáveis, sugerir exerc�
 - Atleta	          Possui uma resistência física excepcional. Consegue correr por no máximo 120 minutos ininterruptos (velocidade média 13 km/h).
 
 Regra 6: Força atual
-Conhecendo a força atual na área de variáveis, selecionar exercícios de diferentes dificuldades conforme relação abaixo:
-- Baixa          Possui pouca força e mobilidade física. Tem dificuldade para executar os movimentos de uma ou mais articulações em grandes amplitudes de maneira eficiente. É a mobilidade típica das pessoas sedentárias. Os exercícios sugeridos devem ser adaptados para um nível fácil de execução (exemplo: ao invés de sugerir 3 flexões, sugerir 5 flexões de joelho). 
+Conhecendo a força atual na área de variáveis, selecionar exercícios de diferentes dificuldades conforme relação abaixo. Para os níveis "Baixa" e "Alta", sugerir adaptações dos exercícios conforme exemplos fornecidos.
+- Baixa          Possui pouca força e mobilidade física. Tem dificuldade para executar os movimentos de uma ou mais articulações em grandes amplitudes de maneira eficiente. É a mobilidade típica das pessoas sedentárias. Os exercícios sugeridos devem ser adaptados para um nível fácil de execução (exemplo: ao invés de sugerir flexões, sugerir flexões de joelho).
 - Intermediária	 Possui alguma força e mobilidade física. Consegue executar os movimentos de uma ou mais articulações em grandes amplitudes de maneira eficiente, porém não de todas as articulações. Os exercícios sugeridos não precisam ser adaptados.
-- Alta	         Possui ótima mobilidade e força física. Consegue executar os movimentos de todas as articulações em grandes amplitudes de maneira eficiente. Os exercícios sugeridos podem ser adaptados para aumentar a dificuldade da execução (exemplo: ao invés de sugerir 10 flexões, sugerir 8 flexões arqueiro). 
+- Alta	         Possui ótima mobilidade e força física. Consegue executar os movimentos de todas as articulações em grandes amplitudes de maneira eficiente. Os exercícios sugeridos podem ser adaptados para aumentar a dificuldade da execução (exemplo: ao invés de sugerir flexões, sugerir flexões arqueiro).
 
 Regra 7: Objetivo
 Conhecendo o objetivo na área de variáveis, adequar o conjunto de exercícios sugeridos para que estes estejam aliados ao objetivo. Os objetivos possíveis e sua respectiva definição são:
@@ -102,7 +102,7 @@ Sabendo que:
 - A série diz respeito ao número de vezes que determinado exercício é realizado
 - O descanso é o tempo de recuperação que você tem entre as séries
 os treinos devem atentar para as seguintes restrições:
-- A quantidade de repetições sugeridas deverá estar diretamente relacionada com o Objetivo na área de variáveis
+- A quantidade de repetições sugeridas deve seguir as recomendações e experiência do personal trainer especialista, de acordo com o Objetivo definido na área de variáveis.
 - A quantidade de séries sugeridas deve ser de no mínimo 3 e no máximo 7 por exercício
 - O tempo de descanso sugerido deve ser entre 40 e 120 segundos
 
@@ -110,19 +110,19 @@ Restrição 3: Recuperação do corpo
 Caso seja escolhida a periodização de 7 dias na área de variáveis, é obrigatório que um dos treinos da semana consista apenas de exercícios de mobilidade, alongamento e relaxamento para garantir o descanso ativo do corpo e recuperação dos músculos. Para este treino é necessário listar todos os exercícios recomendados, com número de séries/tempo, descanso etc.
 
 Restrição 4: Saúde Geral
-Independente do Objetivo e do Biotipo corporal na área de variáveis, é extremamente importante incluir treinamentos que trabalhem a resistência cardiovascular para manter uma boa saúde geral. Com base nisso, é imprescindível que treinos de Cardio ou HITT sejam incluídos no bloco semanal, atendendo a seguinte relação entre a quantidade de treinos Cardio e/ou HITT e a periodização:
-- 1 dia	  não incluir treino de Cardio ou HITT
-- 3 dias	não incluir treino de Cardio ou HITT
-- 5 dias	incluir 1 treino de Cardio ou HITT
-- 6 dias  incluir 1 treino de Cardio ou HITT
-- 7 dias	incluir no mínimo 1 e no máximo 2 treinos de Cardio ou HITT
+Independente do Objetivo e do Biotipo corporal na área de variáveis, é extremamente importante incluir treinamentos que trabalhem a resistência cardiovascular para manter uma boa saúde geral. Com base nisso:
+- Para periodização de 1 dia, não é necessário incluir treino de Cardio ou HIIT.
+- Para periodização de 3 dias, não é necessário incluir treino de Cardio ou HIIT.
+- Para periodização de 5 dias, é imprescindível incluir 1 treino de Cardio ou HIIT no bloco semanal.
+- Para periodização de 5 dias, é imprescindível incluir 1 treino de Cardio ou HIIT no bloco semanal.
+- Para periodização de 7 dias, é imprescindível incluir 1 treino de Cardio e 1 treino de HIIT no bloco semanal.
 
 Restrição 5: Combinação dos tipos de treino
 Não é obrigatório incluir exercícios de todos os tipos de treino selecionados na área de variáveis. Caso seja escolhida mais de uma opção de tipo de treino na área de variáveis você, como é especialista personal trainer,  tem total autonomia para montar o plano de treino ideal alinhado ao objetivo desejado.
 
 Restrição 6: Treino de Cardio
-O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do bloco semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções por treino, as opções fornecidas devem ser atividades físicas diferentes entre si, para proporcionar real variedade (exemplo: Opção 1: Remo indoor - 40-50 min, Opção 2: Natação - 1000-1500m, Opção 3: Aerojump - 30-40 min).
-Caso seja recomendado um circuito funcional ou treino de HIIT no Treino de Cardio é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
+O treino de cardio, normalmente, envolverá a execução de uma atividade física única durante todo o treino do dia (exemplo: corrida, ciclismo indoor, natação). Este treino então será repetido ao longo das semanas que fazem parte do bloco semanal. Para evitar a monotonia e aumentar a motivação da pessoa, é obrigatório que quando for sugerido um treino de Cardio este treino forneça 3 opções por treino, as opções fornecidas devem ser atividades físicas diferentes entre si, para proporcionar real variedade. A obrigatoriedade de fornecer 3 opções de atividades diferentes se aplica apenas aos treinos de Cardio, não sendo necessário para treinos de HIIT ou circuito funcional.
+Caso seja recomendado, no treino de Cardio, um circuito funcional ou treino de HIIT é obrigatório que este circuito seja detalhado com os exercícios específicos, intervalos, tempo de trabalho/descanso, etc.
 
 Restrição 7: Atentar para a periodização
 Siga exatamente a periodização especificada na área de variáveis, gerando um treino distinto para cada dia da semana.
